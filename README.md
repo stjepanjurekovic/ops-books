@@ -40,7 +40,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [The High-Velocity Edge: How Market Leaders Leverage Operational Excellence to Beat the Competition](http://www.amazon.com/High-Velocity-Edge-Operational-Excellence-Competition/dp/0071741410)  
 [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](http://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238)  
 [Behind Closed Doors](http://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026)  
-[Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.amazon.co.uk/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309)  
+[Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.amazon.co.uk/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309)
+[Effective Platform Engineering](https://www.manning.com/books/effective-platform-engineering)  
 
 ### Web Operations
 [Web Operations: Keeping the Data on Time](http://www.amazon.co.uk/Web-Operations-Keeping-Data-Time/dp/1449377440)  
