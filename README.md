@@ -23,7 +23,8 @@ If you have a suggestion for the list, then please send a PR, I would be happy t
 [UNIX and Linux System Administration Handbook](http://amzn.com/0133390098)   
 [Essential System Administration:Tools and Techniques for Linux and Unix Administration](http://amzn.com/0596003439)  
 [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)  
-[DevOps Troubleshooting: Linux Server Best Practices](https://www.amazon.co.uk/DevOps-Troubleshooting-Linux-Server-Practices/dp/0321832043)  
+[DevOps Troubleshooting: Linux Server Best Practices](https://www.amazon.co.uk/DevOps-Troubleshooting-Linux-Server-Practices/dp/0321832043)
+[Latency: Reduce delay in software systems](hhttps://www.manning.com/books/latency)  
 
 ### DevOps / Culture / Leadership
 [The Phoenix Project](http://www.amazon.co.uk/dp/0988262509)  
